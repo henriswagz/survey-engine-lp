@@ -1,2 +1,2 @@
 # survey-engine-lp
-Landing Page for Survey Engine App
+A static WordPress Landing Page for a Survey web app. 
